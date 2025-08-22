@@ -27,12 +27,12 @@ A simple and efficient **Python-based Employee Management System** designed to m
 
 Python-Base-Management-System/
 │
-├── main.py # Main program entry
-├── employee.py # Employee class and operations
-├── database.py # Database connection and functions
-├── dashboard.py # Data visualization scripts
-├── requirements.txt # Required Python packages
-└── README.md # Project documentation
+├── **main.py # Main program entry
+├── **employee.py # Employee class and operations
+├── **database.py # Database connection and functions
+├── **dashboard.py # Data visualization scripts
+├── **requirements.txt # Required Python packages
+└── **README.md # Project documentation
 
 
 
